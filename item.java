@@ -3,8 +3,6 @@ public class item {
     double size = 39.0; 
     boolean rented = false; 
     
-        
-
 
     void drive() {
         System.out.println("You drive the car");

@@ -4,14 +4,14 @@ import java.lang.Character;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 
-
-
 public class Main {
 
     
 
     public static void main(String[] args) {
+        item s = new item();
         
+        System.out.println(s);
         /* Exercise 1 = Pyramid Number pattern */
         /* for (int x = 1; x <= 4; x++) {
             
@@ -52,7 +52,6 @@ public class Main {
 
     };
 
-
-
+    int x;
 
 }
